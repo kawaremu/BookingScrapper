@@ -29,7 +29,8 @@ For each parameter, there is an abbreviation.
 
 - This command :
 
-`$ python scrapper.py -c  "apa hotel" "washington hotel tokyo"  -d 2022-01-05 -o "C:/Users/Documents/generated_file"  -v`
+```bash
+$ python scrapper.py -c  "apa hotel" "washington hotel tokyo"  -d 2022-01-05 -o "C:/Users/Documents/generated_file"  -v```
 
 - Is equivalent to this one : 
 
