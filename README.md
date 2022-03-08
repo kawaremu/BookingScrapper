@@ -88,8 +88,8 @@ You can change the parameters, as for path. By default, the files are generated 
 
 # To-Do
 
-[ ] Create a multi-threading class for Selenium instance
-[ ] Separate values for refundability and info on meal
+- [ ] Create a multi-threading class for Selenium instance
+- [ ] Separate values for refundability and info on meal
 
 
 # Disclaimer
